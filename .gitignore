@@ -1,0 +1,10 @@
+__pycache__/*
+*.pyc
+.env
+.env_live
+.env_staging
+google-credential.json
+gmail-credential.json
+token.json
+venv
+media
